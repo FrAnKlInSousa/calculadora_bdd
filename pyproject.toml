@@ -1,0 +1,16 @@
+[project]
+name = "calculadora"
+version = "0.1.0"
+description = "criar uma api simples de calculadora para treinar bdd e posteriormente demais testes"
+authors = [
+    {name = "franklin",email = "frank.fkn.23@gmail.com"}
+]
+requires-python = ">=3.12,<4.0"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
